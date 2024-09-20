@@ -15,3 +15,7 @@ node index.js
 ```
 tsc index.ts --watch
 ```
+
+
+# TypeScript Documentation
+( Anisul-Islam Basice Typescript )[https://github.com/anisul-Islam/typescript-documentation?tab=readme-ov-file#1-basic-typescript-topics]
