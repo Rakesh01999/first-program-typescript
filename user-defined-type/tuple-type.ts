@@ -1,4 +1,4 @@
-// mixed data
+// mixed data - key, value
 let user: (string | number)[];
 user = ['Kashem', 34];
 

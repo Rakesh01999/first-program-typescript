@@ -1,4 +1,4 @@
-// mixed data
+// mixed data - key, value
 var user;
 user = ['Kashem', 34];
 user.push("Zisan", 234);
